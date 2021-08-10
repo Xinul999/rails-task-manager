@@ -1,0 +1,29 @@
+// Place all the styles related to the Tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+p {
+  background: lightgoldenrodyellow;
+  padding: 12px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.btn {
+  border: 0;
+  background-color: dodgerblue;
+  color: white;
+  font-weight: bolder;
+  padding: 12px;
+  border-radius: 6px;
+}
+
